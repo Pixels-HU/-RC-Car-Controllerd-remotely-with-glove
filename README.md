@@ -39,12 +39,6 @@ The second part receiver code which receives data and moves robot car
 
 
 
-## More Projects
-for more projects in different enginneering fields, please visit our wevbsite:
-https://pixelseg.com/project-contest
-![Screenshot (149)](https://user-images.githubusercontent.com/80456446/124113398-b18b8a00-da6b-11eb-8faf-70db2402673c.png)
-
-
 ## Pixels App 
 ![187960930_3955292401216930_6844533153445761662_n](https://user-images.githubusercontent.com/80456446/124113684-00392400-da6c-11eb-8779-cea0193eefb6.jpg)
 
