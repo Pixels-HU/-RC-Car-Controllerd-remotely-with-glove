@@ -34,29 +34,34 @@ The mechanical components of the RC Robot Car is divided into the following:
 7.	Top Wing (Right and Left): Mounted on top of the Chassis Top
 8.	Top Flange: Designed to hold the top wings
 
-![image](https://user-images.githubusercontent.com/80456446/147679786-02a76d1a-2fa9-416a-9378-e57a83e2f90e.png)
+![image](https://user-images.githubusercontent.com/80456446/147681666-b6758e1c-daf6-4877-a589-d04ab3a59efd.png)
 
 
 ## Mechanical Parts:
-
-1.	Chassis Base              |  2.	Chassis Top
+Chassis Base               |  Chassis Top
 :-------------------------:|:-------------------------:
 ![image](https://user-images.githubusercontent.com/80456446/147679912-713a2da4-8150-48fd-9d8a-2cdbcccf9259.png) | ![image](https://user-images.githubusercontent.com/80456446/147679942-6e9d927f-e44b-4e66-8eb8-5f0ca90c4259.png)
 
 
-3.	Motor Supports           |  4.	Corner Spacers
+
+Motor Supports               |  Corner Spacers
 :-------------------------:|:-------------------------:
 ![image](https://user-images.githubusercontent.com/80456446/147680252-ff42fbea-774b-4d6f-828d-3022bae09eb1.png)| ![image](https://user-images.githubusercontent.com/80456446/147680286-b06f1d81-93b2-4788-b1fa-950c147f3291.png)
 
 
-5.	Front Spacer   | 6.	 Back Spacer
+Front Spacer               |  Back Spacer
 :-------------------------:|:-------------------------:
 ![image](https://user-images.githubusercontent.com/80456446/147680455-97e077c0-ed15-4971-a332-2a12ae298280.png) | ![image](https://user-images.githubusercontent.com/80456446/147680470-9b4b910c-d28d-47fa-9d9c-37855a4ac381.png)
 
 
-7.	Top Wings |  8.	Top Flange
+Top Wing               |  Top Flange
+:-------------------------:|:-------------------------:
 ![image](https://user-images.githubusercontent.com/80456446/147680525-8aade384-1e4f-4341-b98a-cfb171cbf4f6.png)| ![image](https://user-images.githubusercontent.com/80456446/147680543-798e049f-7a18-421b-b313-9c77499956d0.png)
 
+
+
+## Assembly 
+![image](https://user-images.githubusercontent.com/80456446/147681775-98b89be9-0920-4f9c-8c82-6ea7788e9713.png)
 
 
 ## Code:
